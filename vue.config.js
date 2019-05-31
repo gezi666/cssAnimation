@@ -4,7 +4,7 @@
 // const path = require('path')
 
 module.exports = {
-  publicPath:"/cssAnimation/",
+  publicPath:"/cssAnimation/dist/",
   productionSourceMap:false,
   // webpack相关
   chainWebpack: config => {
